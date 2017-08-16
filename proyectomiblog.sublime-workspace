@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"guardar",
+				"guardar_como"
+			],
+			[
+				"gua",
+				"guardar_como"
+			],
+			[
+				"abrir",
+				"abrir"
+			],
+			[
+				"com",
+				"command"
+			],
+			[
+				"show",
+				"showinfo"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"string",
+				"string\tkeyword"
+			],
+			[
+				"boo",
+				"bootstrap\talias"
+			],
+			[
+				"se",
+				"selector\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fus",
+				"fusion-row"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"gl",
+				"global"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"mouse",
+				"mouseleave"
+			],
+			[
+				"mou",
+				"mouseleave"
+			],
+			[
+				"mous",
+				"mouseenter"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"do",
+				"do_shortcode"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"tour",
+				"tour_check"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "miblog/miblog/settings.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/blogdjango/miblog/miblog"
+	],
+	"file_history":
+	[
+		"/D/py/editordetexto.py",
+		"/D/py/basesdedatos.py",
+		"/D/py/clavesprimarias.py",
+		"/D/py/indetificadores.py",
+		"/D/py/consultasbasededatos.py",
+		"/J/Video Tutoriales/python/18 BONUS/130 Clase Extra Ofertas para estudiantes.html",
+		"/D/py/expresionesregulares1.py",
+		"/C/Users/diego/Desktop/js/salvattore.min.js",
+		"/D/django/frikr/frikr/urls.py",
+		"/D/django/frikr/frikr/settings.py",
+		"/D/django/frikr/frikr/__init__.py",
+		"/D/django/frikr/frikr/wsgi.py",
+		"/C/Users/diego/Desktop/default.xml",
+		"/D/py/entries.py",
+		"/D/py/text.py",
+		"/D/py/botones.py",
+		"/D/py/radiobutton.py",
+		"/D/py/app.py",
+		"/D/py/checkbutton.py",
+		"/D/py/menu.py",
+		"/D/py/ventana_emergente.py",
+		"/D/py/popup.py",
+		"/D/py/sddfdfd.html",
+		"/D/form/form-contacto_send.php",
+		"/D/form/form-contacto.php",
+		"/C/Users/diego/Desktop/Zephyr-child/form.php",
+		"/D/form.html",
+		"/D/ddccv4/resources/views/layouts/default.blade.php",
+		"/D/xampp/htdocs/geo/intro.html",
+		"/D/xampp/htdocs/geo/testgeo/intro.html",
+		"/D/xampp/htdocs/f/index.html",
+		"/D/xampp/htdocs/geo/testgeo/js/geopatrimonio.js",
+		"/D/Ayni/app/Http/Controllers/PageController.php",
+		"/D/Ayni/app/Http/Controllers/HosttraderAuth/HosttraderController.php",
+		"/D/Ayni/app/Http/Controllers/HostttraderController.php",
+		"/D/Ayni/app/Http/Controllers/HomeController.php",
+		"/D/Ayni/app/Http/Controllers/TraderController.php",
+		"/D/Ayni/app/Http/Controllers/UsuarioController.php",
+		"/D/Ayni/app/Http/Controllers/Controller.php",
+		"/D/Ayni/app/Http/Controllers/PostController.php",
+		"/D/xampp/htdocs/geo/js/geopatrimonio.js",
+		"/D/Ayni/routes/web.php",
+		"/D/ddccv4/.env",
+		"/D/h/ddccV4/resources/views/layouts/default.blade.php",
+		"/D/xampp/htdocs/click/index.html",
+		"/C/Users/diego/Desktop/paypapl.html",
+		"/C/Users/diego/Desktop/- PERÚ FOLKLÓRICO.html",
+		"/D/xampp/htdocs/geo/testgeo/mdl-arqueologico.php",
+		"/C/Users/diego/Desktop/fancybox-3.0/docs/index.html",
+		"/D/xampp/htdocs/f/intro.html",
+		"/C/Users/diego/Desktop/De compras en Cuzco.html",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/single.php",
+		"/D/xampp/htdocs/org/wp-config.php",
+		"/C/Users/diego/Desktop/ola.html",
+		"/D/xampp/htdocs/kondor/Avada-Child-Theme/style.css",
+		"/D/ddccv3/public/kml/limites/limite-provincial.kml",
+		"/D/ddccv3/public/kml/limites/limite-departamental.kml",
+		"/D/ddccv3/public/kml/limite-distrital.xml",
+		"/D/xampp/htdocs/demo/index.php",
+		"/D/ddccv3/public/js/mapa/maplabel.js",
+		"/C/Users/diego/Desktop/mapa.html",
+		"/D/xampp/phpMyAdmin/config.inc.php",
+		"/D/xampp/htdocs/geo/includes/db.php",
+		"/D/xampp/htdocs/demo/js/geopatrimonio.js",
+		"/D/ddccv3/public/js/mapa/main.js",
+		"/D/ddccv3/public/js/mapa/geo.js",
+		"/D/ddccv3/resources/views/mapa.blade.php",
+		"/D/ddccv3/resources/views/layouts/default.blade.php",
+		"/D/ddccv3/public/css/mapa/style.css",
+		"/D/xampp/htdocs/demo/js/select2.js",
+		"/D/xampp/htdocs/demo/css/geoaptrimonio.css",
+		"/D/xampp/htdocs/kondor/wp-content/themes/Avada-Child-Theme/departures_portada.php",
+		"/D/xampp/htdocs/kondor/wp-content/uploads/fusion-scripts/f66866f41c8e07116a6e3dae3cb5d089.js",
+		"/D/xampp/htdocs/pacha/wp-config.php",
+		"/D/xampp/htdocs/kondor/wp-content/themes/kondorpathtours/system/departures/shortcode_departures.php",
+		"/D/xampp/htdocs/tecnodus/wp-config.php",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa0.938/wp-config.php",
+		"/D/xampp/htdocs/tourinperu/wp-config.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/functions.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada/templates/title-bar.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/includes/avada-functions.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/header.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/style.css",
+		"/D/xampp/htdocs/espirit/incatrail/caminoinca/amf/AMFX.php",
+		"/D/xampp/htdocs/espirit/incatrail/caminoinca/amf/index.php",
+		"/D/xampp/htdocs/espirit/incatrail/caminoinca/amf/modulo.php",
+		"/D/xampp/htdocs/espirit/incatrail/caminoinca/caminoinca.php",
+		"/D/xampp/htdocs/espirit/incatrail/incatrail.php",
+		"/D/xampp/htdocs/espirit/wp-config.php",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/gfglhfghkf.html",
+		"/D/xampp/htdocs/espirit/wp-content/themes/Avada-Child-Theme/tabs_portada/item.php",
+		"/D/xampp/htdocs/kondor/wp-content/themes/Avada-Child-Theme/tabs_portada/item.php",
+		"/C/Users/diego/Desktop/kki/theme/sidebar.php",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa0.565/functions.php",
+		"/D/xampp/htdocs/pumas/Avada-Child-Theme/templates/header.php",
+		"/D/xampp/htdocs/pumas/Avada-Child-Theme/header.php",
+		"/D/xampp/htdocs/pumas/Avada/page.php",
+		"/D/xampp/htdocs/pumas/Avada-Child-Theme/page.php",
+		"/D/xampp/htdocs/pumas/Avada-Child-Theme/style.css",
+		"/D/xampp/htdocs/avada/wp-config.php",
+		"/C/Users/diego/Desktop/Zephyr-child/Zephyr-child/system/custom-fields.php",
+		"/C/Users/diego/Desktop/Zephyr-child/Zephyr-child/style.css",
+		"/D/xampp/htdocs/kondor/wp-content/themes/Avada-Child-Theme/includes/footer_content.php",
+		"/C/Users/diego/Desktop/Zephyr-child/Zephyr-child/system/meta.php",
+		"/D/xampp/htdocs/kondor/wp-content/themes/Avada-Child-Theme/functions.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/includes/footer.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/includes.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/includes/menu_04.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/includes/menu_06.php",
+		"/C/Users/diego/Desktop/dfdfdfdfd.html",
+		"/C/Users/diego/Desktop/demo.html",
+		"/D/xampp/htdocs/chamorep/wp-config.php",
+		"/D/xampp/htdocs/kondor/wp-config.php",
+		"/D/ddccv3/.env",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa0.963/wp-config-sample.php",
+		"/C/Users/diego/AppData/Local/Temp/Rar$DIa0.150/wp-config.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/style.css",
+		"/D/xampp/htdocs/curso-angular/app/views/pelicula.html",
+		"/D/xampp/htdocs/curso-angular/assets/style.css",
+		"/D/xampp/htdocs/curso-angular/app/model/pelicula.ts",
+		"/D/xampp/htdocs/curso-angular/app/views/fichero.html",
+		"/D/xampp/htdocs/pumas/wp-content/themes/Avada-Child-Theme/header.php",
+		"/D/xampp/htdocs/pumas/wp-content/themes/Avada-Child-Theme/tabs_portada/tab_1.php",
+		"/C/Users/diego/Desktop/ddcc/app/Cir_pma_calificacion.php",
+		"/C/Users/diego/Desktop/ddcc/app/Cia_supervision.php",
+		"/D/xampp/htdocs/treks/wp-content/themes/Avada-Child-Theme/functions.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada-Child-Theme/templates/header-content-3.php",
+		"/D/xampp/htdocs/pacha/wp-content/themes/Avada/includes/avada-functions.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\enrique\\themes",
+			"D:\\xampp\\htdocs\\geo",
+			"D:\\xampp\\htdocs\\demo",
+			"D:\\xampp\\htdocs\\kondor\\wp-content\\themes\\kondorpathtours",
+			"D:\\xampp\\htdocs\\espirit\\wp-content\\themes",
+			"D:\\xampp\\htdocs\\espirit\\wp-content\\themes\\Avada-Child-Theme",
+			"C:\\Users\\diego\\Desktop\\kki\\theme",
+			"C:\\Users\\diego\\Desktop\\Zephyr-child\\Zephyr-child",
+			"D:\\xampp\\htdocs\\kondor\\wp-content\\themes",
+			"D:\\xampp\\htdocs\\pacha\\wp-content\\themes\\Avada-Child-Theme",
+			"D:\\xampp\\htdocs\\pumas\\wp-content\\themes\\Avada",
+			"D:\\xampp\\htdocs\\pacha\\wp-content\\themes\\Avada",
+			"C:\\Users\\diego\\Downloads\\Zephyr",
+			"D:\\xampp\\htdocs\\chamorep\\wp-content\\themes\\Divi",
+			"D:\\xampp\\htdocs\\pumas\\wp-content\\themes\\Avada-Child-Theme",
+			"D:\\xampp\\htdocs\\peru\\wp-content\\themes\\Divi",
+			"D:\\xampp\\htdocs\\tourinperu\\wp-content\\themes",
+			"C:\\Users\\diego\\Desktop\\action",
+			"C:\\Users\\diego\\Desktop\\dddd",
+			"C:\\Users\\diego\\Desktop\\eng",
+			"<META NAME=\"ROBOTS\" CONTENT=\"NOINDEX, NOFOLLOW\">",
+			"C:\\Users\\diego\\Downloads\\Zephyr-child",
+			"D:\\xampp\\htdocs\\tourinperu\\wp-content\\themes\\Zephyr-child",
+			"C:\\Users\\diego\\Downloads\\theme",
+			"D:\\xampp\\htdocs\\tourinperu\\wp-content\\themes\\Zephyr-child",
+			"D:\\xampp\\htdocs\\tourinperu\\wp-content\\themes\\Zephyr",
+			"D:\\xampp\\htdocs\\tourinperu\\wp-content\\themes\\Zephyr-child",
+			"D:\\xampp\\htdocs\\org"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"radiobutton.py",
+			"include",
+			"GgBwxB",
+			"block",
+			"link-docu",
+			"intro.html",
+			"body_intro",
+			"body",
+			"copy",
+			"body",
+			"f18",
+			"FF9800",
+			"FF00FF",
+			"MapLabel",
+			"#map",
+			"map",
+			"1200",
+			"Group Max",
+			"shadow",
+			"shado",
+			"fusion-post-title",
+			"main",
+			"tab",
+			"slides kondor",
+			"title-heading-left",
+			"demo1",
+			"$meta",
+			"class=\"entry-title fusion-post-title\"",
+			"class=\"entry-title",
+			"fusion-flexslider",
+			"flex-active-slide",
+			"\t\n",
+			"fusion-logo-link",
+			"title_cat_tour",
+			"sliders-container",
+			".fusion-logo a.fusion-logo-link:before, .fusion-logo a.fusion-logo-link:after",
+			"menu",
+			"entry-title",
+			"class=\"entry-title ",
+			"class=\"post-content\"",
+			"”",
+			"“",
+			"blog_post_title",
+			"avada_render_post_title",
+			"$custom_size",
+			"class=\"entry-title",
+			"h1",
+			"fusion-header-tagline",
+			"video",
+			"Tour Details",
+			"BOOK NOW",
+			"place",
+			"elect your payment method (you can pay later):",
+			"us-base.css",
+			"h1",
+			"et_pb_slide_title",
+			"container",
+			"1080",
+			"1050",
+			"post-meta",
+			"description",
+			"descrip",
+			"white",
+			"register",
+			"global $post;",
+			"et-top-navigation",
+			"phone",
+			"et_pb_page_layout_settings",
+			"set",
+			"type",
+			"recipe",
+			"container text-center",
+			"$output",
+			"class=\"w-socials-list\"",
+			"us_socials",
+			"id=\"us_socials",
+			"tour",
+			"recipe",
+			"project",
+			"valor",
+			"paramProv",
+			"ubigeos_dist",
+			"<META NAME=\"robots\" content=\"INDEX,FOLLOW\">",
+			"dots",
+			"\\$",
+			"result_mapa",
+			"#menu",
+			"          \n",
+			"tnail",
+			"l-section-h",
+			"w-blog layout_flat",
+			"w-blog-post-preview",
+			"l-section for_blogpost",
+			"class=\"l-section for_blogpost",
+			"w-blog-post-preview",
+			"w-blog-post",
+			"$classes",
+			"class=\"w-blog",
+			"class=\"w-blog-list\"",
+			"return",
+			"fb",
+			"twitter",
+			"twiiter",
+			"class=\"title_overimage\"",
+			"get_template_part",
+			"class=\"rosw\"",
+			"Contact Information",
+			"mailto",
+			"text:",
+			"header_contacts_email",
+			"header_contacts_skype",
+			"text:4",
+			"extended_1",
+			"text:4",
+			"header_contacts_skype",
+			"ush_text_5",
+			"l-subheader-cell ",
+			"domain",
+			"w-socials-item",
+			"w-socials-item facebook",
+			"$socials",
+			"class=\"w-socials-list\"",
+			"booking_form_tour",
+			"Travel Summary",
+			"quick_form",
+			"posts_related",
+			"posts_related_meta",
+			"        $"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"tour",
+			"<META NAME=\"ROBOTS\" CONTENT=\"NOINDEX, NOFOLLOW\">",
+			"",
+			".mainmenu",
+			"review",
+			"_my_incatrails_meta",
+			"incatrail",
+			"incatrails"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "miblog/miblog/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2914,
+								2914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 155.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyectomiblog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 182.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

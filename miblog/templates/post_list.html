@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block head_title %} LIstado de Elementos | {{ block.super }} {% endblock head_title %}
+
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Probando: {{ titulo }}</h1>
+            <div class="alert alert-primary" role="alert">
+                This is a primary alert—check it out!
+            </div>
+
+            <hr>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="row">
+        {% for obj in object_list %}
+        <div class="col col-md-4">
+            <div class="card">
+                {% if obj.imagen %}
+                <img class="card-img-top" src="{{ obj.imagen.url }}" alt="Card image cap">
+                {% endif %}
+                <div class="card-body">
+                    <h4 class="card-title"><a href='{{ obj.get_absolute_url }}'>{{ obj.titulo }}</a></h4>
+                    {% if obj.user.get_full_name %}
+                    <p><b>Autor:</b> {{ obj.user.get_full_name }}</p>
+                    {% else %}
+                    <p><b>Autor:</b> {{ obj.user }}</p>
+                    {% endif %}
+                    <p><b>hace</b> {{ obj.timestamp|timesince }}</p>
+                    <p class="card-text">{{ obj.contenido|linebreaks|truncatechars:120 }}</p>
+                    <p><i>{{ obj.timestamp }}</i></p>
+                    <a href="{{ obj.get_absolute_url }}" class="btn btn-primary">Ir al Articulo</a>
+
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+
+</div>
+<div class="container">
+    <div class="row">
+        <nav aria-label="..." class="col-md-12">
+            <hr>
+            <ul class="pagination">
+                {% if object_list.has_previous %}
+                <li class="page-item"><a class="page-link"
+                                         href="?page={{ object_list.previous_page_number }}">Anterior</a></li>
+                {% endif %}
+                {% for page in object_list.paginator.page_range %}
+                <li class="page-item {% if object_list.number == page  %}active{% endif %}"><a class="page-link"
+                                                                                               href="?page={{page }}">{{
+                    page }}</a></li>
+                {% endfor %}
+
+                {% if object_list.has_next %}
+                <li class="page-item"><a class="page-link" href="?page={{ object_list.next_page_number }}">Siguiente</a>
+                </li>
+                {% endif %}
+            </ul>
+        </nav>
+
+
+    </div>
+</div>
+
+
+{% endblock %}
+

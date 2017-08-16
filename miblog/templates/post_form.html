@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block head_title %} Crear o Editar Registro | {{ block.super }} {% endblock head_title %}
+
+{% block content %}
+<div class="container">
+    <h1>Creando Publicacion nueva</h1>
+
+
+    <form method="POST" action="" enctype="multipart/form-data">
+        {% csrf_token %}
+
+
+        {% load bootstrap %}
+        {{ form|bootstrap }}
+
+        <input type="submit" value="Crear Post">
+    </form>
+</div>
+
+
+{% endblock %}
+
